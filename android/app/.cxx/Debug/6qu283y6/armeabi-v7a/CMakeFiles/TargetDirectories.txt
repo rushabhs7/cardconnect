@@ -1,0 +1,2 @@
+D:/Anjali/cardconnect/android/app/.cxx/Debug/6qu283y6/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Anjali/cardconnect/android/app/.cxx/Debug/6qu283y6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
